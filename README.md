@@ -1,2 +1,2 @@
-# SoftwareDesign-Array
-Assignment 01 for Software Design class (Spring 2016).
+# cs49000-spring2016-array
+attempt #2
